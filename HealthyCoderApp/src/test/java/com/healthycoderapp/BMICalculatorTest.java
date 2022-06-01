@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-class BMICalculatorTest {
+public class BMICalculatorTest {
 
 	@Test
 	void should_ReturnTrue_When_DietRecomended() {
